@@ -1,4 +1,4 @@
 pyglass
-=======
+== == == =
 
-A simple library for creating Google Glass apps. 
+A simple library for creating Google Glass apps.
